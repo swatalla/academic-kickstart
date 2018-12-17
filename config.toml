@@ -9,7 +9,7 @@
 baseurl = "https://swatalla.github.io/"
 
 # Title of your site
-title = "Sebastian Atalla"
+title = "Sebastian W. Atalla"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -145,7 +145,7 @@ enableGitInfo = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
