@@ -25,13 +25,13 @@ weight = 7
   icon = "code"
   icon_pack = "fas"
   name = "F#"
-  #description = "100%"
+  description = "ML style .NET language incorporating functional programming paradigms"
 
 [[feature]]
   icon = "microchip"
   icon_pack = "fas"
   name = "MATLAB"
-  #description = "100%"
+  description = "Language and tools suited for rapid prototyping and analysis of data"
 
 [[feature]]
   icon = "r-project"
