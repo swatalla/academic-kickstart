@@ -59,19 +59,19 @@ weight = 7
 
 [[feature]]
   icon = "linux"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Linux"
   description = "Unix-like open-source OS; Arch Linux preferred"
 
 [[feature]]
   icon = "apple"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "MacOS"
   description = "Unix-like OS developed by Apple"
 
 [[feature]]
   icon = "windows"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Windows"
   description = "OS developed by Microsoft"
 +++
