@@ -13,7 +13,7 @@ weight = 5
     "Signal Processing",
     "Medical Imaging",
     "Scientific Computing",
-    "Neurologys"
+    "Neurology"
   ]
 
 # List your qualifications (such as academic degrees).
