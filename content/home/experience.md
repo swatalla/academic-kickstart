@@ -33,6 +33,7 @@ date_format = "January 2006"
   
   * Coordination of multiple study sites and PIs
   * IRB compliance and point-of-contact
+  * Scientific paper writing
   * Grant management
   * MR image acquisition
   * Analysis of project data
@@ -53,6 +54,7 @@ date_format = "January 2006"
   
   * Coordination of multiple study sites and PIs
   * IRB compliance and point-of-contact
+  * Scientific paper writing
   * Grant management
   * MR image acquisition
   * Analysis of project data
