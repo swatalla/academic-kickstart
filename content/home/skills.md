@@ -37,17 +37,41 @@ weight = 7
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "100%"
+  description = "Software environment for statistical computing"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "SPSS Statistics"
-  description = "100%"  
+  description = "Software package for interactive statistical analysis"
 
 [[feature]]
   icon = "terminal"
   icon_pack = "fas"
   name = "Shell"
-  description = "100%"  
+  description = "OS command line language; proficiencies include bash, zsh, and tcsh"
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "REDCap"
+  description = "Electronic data capture solution for designing clinical and translational research databases"
+
+[[feature]]
+  icon = "linux"
+  icon_pack = "fas"
+  name = "Linux"
+  description = "Unix-like open-source OS; Arch Linux preferred"
+
+[[feature]]
+  icon = "apple"
+  icon_pack = "fas"
+  name = "MacOS"
+  description = "Unix-like OS developed by Apple"
+
+[[feature]]
+  icon = "windows"
+  icon_pack = "fas"
+  name = "Windows"
+  description = "OS developed by Microsoft"
 +++
