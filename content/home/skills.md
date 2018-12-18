@@ -37,17 +37,17 @@ weight = 7
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  #description = "100%"
+  description = "100%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "SPSS Statistics"
-  #description = "100%"  
+  description = "100%"  
 
 [[feature]]
   icon = "terminal"
   icon_pack = "fas"
   name = "Shell"
-  #description = "100%"  
+  description = "100%"  
 +++
