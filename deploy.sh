@@ -2,7 +2,7 @@
 
 hugo
 
-siteDir="$PWD/public"
+siteDir="$PWD"
 
 # Push updates to gh-pages repo
 cd "$siteDir/public"
