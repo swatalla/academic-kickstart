@@ -10,6 +10,8 @@ git add .
 git commit -m "update"
 git push origin master
 
+sleep 10
+
 # Push updates to academic fork
 cd $siteDir
 git add "$PWD"
