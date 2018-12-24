@@ -1,16 +1,16 @@
 +++
 # Project title.
-title = "Age-Related Differences in the Psychophysical and Neurobiological Response to Pain"
+title = "Psychophysical and Neurophysiological Response to Experimental Thermal Pain in Communicative People with Alzheimer's Disease"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "July 2014 - June 2016"
+summary = "October 2013 - October 2017"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Sex Differences", "Thermal Pain", "Aging"]
+tags = ["Sex Differences", "Thermal Pain", "Alzheimer's Disease"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -44,6 +44,6 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-NIH/NIA (R21_AG045735) - $275,000
+Vanderbilt VICTR (KL2) - $450,000
 
-The goal of this exploratory fMRI and psychophysical study is to compare pain processing in a broad range of adults (ages 30-89) to see how the response to pain and brain function differ with sex and aging, to provide a foundation for developing improved pain treatment methods for older adults.
+Examining the psychophysical and neurophysiological response to pain stimuli in communicative patients with Alzheimer's disease. Using fMRI analysis, we are able to determine regions of activation that correspond to the thermal pain we apply to participants while they undergo a 3T fMRI. The fMRI procedure is coupled with psychophysics and various questionnaires to determine affect, potential for depression, and overall pain experienced by the participant

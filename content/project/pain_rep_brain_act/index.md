@@ -1,16 +1,16 @@
 +++
 # Project title.
-title = "Age-Related Differences in the Psychophysical and Neurobiological Response to Pain"
+title = "Pain Reports and Brain Activation Patterns in People with Alzheimer's Disease"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "July 2014 - June 2016"
+summary = "October 2015 - June 2019"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Sex Differences", "Thermal Pain", "Aging"]
+tags = ["Sex Differences", "Thermal Pain", "Alzheimer's Disease"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -44,6 +44,6 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-NIH/NIA (R21_AG045735) - $275,000
+NIH/NIA (1K23AG046379-01A1) - $681,000
 
-The goal of this exploratory fMRI and psychophysical study is to compare pain processing in a broad range of adults (ages 30-89) to see how the response to pain and brain function differ with sex and aging, to provide a foundation for developing improved pain treatment methods for older adults.
+Continuation of "Psychophysical and Neurophysiological Response to Experimental Thermal Pain in Communicative People with Alzheimer's Disease" using modified fMRI paradigms and updated analysis techniques, including resting state functional connectivity, task-evoked functional connectivity, and standard task data analysis modes.
