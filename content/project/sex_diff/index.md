@@ -6,7 +6,7 @@ title = "Sex Differences in the Psychophysical and Neurophysiological Response t
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "This pilot study's goal is to compare healthy men and women ages 65 and older on the association of verbal pain reports and brain activation patterns."
+summary = "May 2012 - May 2013"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -43,3 +43,7 @@ url_code = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
+
+Vanderbilt VICTR - $2,000
+
+This pilot study's goal is to compare healthy men and women ages 65 and older on the association of verbal pain reports and brain activation patterns.
