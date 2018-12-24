@@ -22,7 +22,7 @@ view = 0
 
 # Widget layout
 # Legend: 0 = two columns (default), 1 = single column
-widget_layout = 1
+widget_layout = 0
 
 # For Showcase view, flip alternate rows?
 flip_alt_rows = false

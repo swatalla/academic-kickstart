@@ -6,7 +6,7 @@ title = "Psychophysical and Neurophysiological Response to Experimental Pain in 
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "The major goal of this comparative group study is to examine how sensory and affective components of pain in women with Alzheimer's disease are psychophysically and neurophysiologically associated, as compared to matched controls. The proposed study will also examine associations relative to AD severity."
+summary = "July 2011 - June 2013\ American Academy of Nursing/BAGNC - May Day Fund: $5,000"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -43,3 +43,5 @@ url_code = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
+
+The goal of this comparative group study is to examine how sensory and affective components of pain in women with Alzheimer's disease are psychophysically and neurophysiologically associated, as compared to matched controls. The proposed study will also examine associations relative to AD severity.
