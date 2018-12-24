@@ -6,7 +6,10 @@ title = "Psychophysical and Neurophysiological Response to Experimental Pain in 
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "July 2011 - June 2013  American Academy of Nursing/BAGNC - May Day Fund: $5,000"
+summary = """
+July 2011 - June 2013 
+American Academy of Nursing/BAGNC - May Day Fund: $5,000
+"""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
